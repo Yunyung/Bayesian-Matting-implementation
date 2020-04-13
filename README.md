@@ -17,6 +17,8 @@
 <p>The  implementation was mostly adapted from Michael Rubinsteins matlab code here, <a href="http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html">http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html </a></p>
 
 <h2>Results</h2>
+![origin](/img/gandalf.png) ![trimap](https://github.com/Yunyung/Bayesian-Matting-implementation/blob/master/trimap/gandalf.png)
+![result](https://github.com/Yunyung/Bayesian-Matting-implementation/blob/master/result/composite_gandalf.png)
 
 
 <h2>References</h2>
