@@ -17,9 +17,14 @@
 <p>The  implementation was mostly adapted from Michael Rubinsteins matlab code here, <a href="http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html">http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html </a></p>
 
 <h2>Results</h2>
-![origin](/img/gandalf.png) ![trimap](https://github.com/Yunyung/Bayesian-Matting-implementation/blob/master/trimap/gandalf.png)
-![result](https://github.com/Yunyung/Bayesian-Matting-implementation/blob/master/result/composite_gandalf.png)
-
+<p> origin </p>
+<img src="img/gandalf.png" />
+<p>trimap </p>
+<img src="trimap/gandalf.png" />
+<p>Done by Bayesain Matting(foreground alpha) </p>
+<img src="result/GaryScale_gandalf.png" />
+<p>composite with another landScape </p>
+<img src="result/composite_gandalf.png" />
 
 <h2>References</h2>
 <p>[1] Yung-Yu Chuang, Brian Curless, David H. Salesin, and Richard Szeliski. A Bayesian Approach to Digital Matting. In Proceedings of IEEE Computer Vision and Pattern Recognition (CVPR 2001), Vol. II, 264-271, December 2001</p>
