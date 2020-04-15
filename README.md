@@ -14,14 +14,14 @@
 
 <h2>More Information</h2>
 <p>For more information see the orginal project website <a href="http://grail.cs.washington.edu/projects/digital-matting/image-matting/">http://grail.cs.washington.edu/projects/digital-matting/image-matting/</a></p>
-<p>The  implementation was mostly adapted from Michael Rubinsteins matlab code here, <a href="http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html">http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html </a></p>
-
+<p>The implementation was mostly adapted from Michael Rubinsteins matlab code here, <a href="http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html">http://www1.idc.ac.il/toky/CompPhoto-09/Projects/Stud_projects/Miki/index.html </a></p>
+<p>More traing,testing images and different image matting Alogorithm here, <a href="http://www.alphamatting.com/index.html">http://www.alphamatting.com/index.html</a></p>
 <h2>Results</h2>
 <p> origin </p>
 <img src="img/gandalf.png" />
 <p>trimap </p>
 <img src="trimap/gandalf.png" />
-<p>Done by Bayesain Matting(foreground alpha) </p>
+<p>Done by Bayesain Matting(alpha) </p>
 <img src="result/GaryScale_gandalf.png" />
 <p>composite with another landScape </p>
 <img src="result/composite_gandalf.png" />
